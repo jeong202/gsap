@@ -13,4 +13,4 @@ Parallax ScrollTrigger는 GSAP(GreenSock Animation Platform)의 강력한 플러
 GSAP 객체가 가지고 있는 Property와 Method를 GreenSock 공식 문서를 확인하면서 학습했습니다.<br>
 기본적인 애니메이션이 적용되는 원리를 학습해, Tween을 이용해 간단한 애니메이션을 직접 구성해보고 타임라인을 활용하여 애니메이션의 시간 흐름을 제어하고, 컨트롤하는 방법을 학습했습니다.<br>
 ScrollTrigger 기본 문법과 애니메이션에 대해 학습했습니다.<br>
-GSAP를 학습하므로써 인터렉티브한 웹사이트를 만들 수 있게 되었습니다.<br>
+GSAP를 학습함으로써 인터렉티브한 웹사이트를 만들 수 있게 되었습니다.<br>
